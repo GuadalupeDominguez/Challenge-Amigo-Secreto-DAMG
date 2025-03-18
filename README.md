@@ -1,7 +1,5 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 
-¡Hola! Me gustaría compartir con ustedes, mi desarrollo del reto "Challenge Amigo secreto".
-
 El siguiente proyecto forma parte de un proyecto final previo a la realización de los cursos estudiados en la plataforma de alura LATAM y como parte de la primera fase del programa.
 
 La programación se realizó mediante la siguiente serie de pasos:
