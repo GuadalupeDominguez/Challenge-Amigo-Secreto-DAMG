@@ -3,7 +3,7 @@
  * Challenge AMIGO SECRETO.
  * Autora: Domínguez Acosta María Guadalupe.
  * Fecha de inicio: 16/03/2025.
- * Fecha de término.
+ * Fecha de término: 17/03/2023
 
  */
 
